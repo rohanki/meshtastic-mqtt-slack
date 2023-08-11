@@ -1,2 +1,4 @@
 # meshtastic-mqtt-slack
-Python scripts to bridge Meshtastic to Slack via MQTT\
+A collection of python scripts to bridge meshtastic to Slack via MQTT.
+
+Requires at least one node in the 
